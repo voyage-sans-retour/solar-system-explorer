@@ -76,7 +76,7 @@ footer a {
     color: gray;
 }
 
-#mercury-header, #venus-header {
+#mercury-header, #venus-header, #mars-header, #earth-header {
     width: 300px;
 }
 
