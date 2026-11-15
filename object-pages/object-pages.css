@@ -55,13 +55,13 @@ em, .fun-fact {
 }
 
 ul {
-    width: 500px;
+    width: 600px;
     margin: auto;
 }
 
 .description {
-    margin-left: 75px;
-    margin-right: 75px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 footer p {
