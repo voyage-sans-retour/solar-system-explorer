@@ -1,5 +1,6 @@
-/* fix the sizes of the planets to make them more relative
-new font and bg?
+/* 
+add padding to bottom of footer
+futuristic scrollbar
  */
 
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
@@ -21,6 +22,11 @@ hr {
 
 h1, h2 {
     font-family: "Orbitron", 'Courier New';
+}
+
+.description {
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 p, li, a {
