@@ -1,0 +1,51 @@
+/* fix the sizes of the planets to make them more relative */
+
+body {
+    text-align:center;
+    background-color: rgb(11, 7, 34);
+    color: azure;
+    font-family: monospace;
+    font-size: 1.5rem;
+}
+
+.object-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20vh;
+}
+
+.object-container:first-of-type {
+    margin-top: 10vh;
+}
+
+.object-container img {
+    width: 175px;
+    height: 175px;
+}
+
+footer p {
+    font-size: .75rem;
+}
+
+.object-container p:hover {
+    text-shadow: 0px 0px 8px #8cbed8;
+}
+
+.object-container img:hover, .object-container p:hover {
+    transition: all 0.2s ease-in-out;
+    transform: scale(1.1);
+}
+
+
+
+/* specific adjustments */
+#sun {
+    width: 270px;
+    height: 200px;
+}
+
+#dwarf-planet-text {
+    font-size: 1rem;
+    font-style: italic;
+}
+
