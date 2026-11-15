@@ -1,11 +1,26 @@
-/* fix the sizes of the planets to make them more relative */
+/* fix the sizes of the planets to make them more relative
+new font and bg?
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+
+* {
+    scroll-behavior: smooth;
+}
 
 body {
     text-align:center;
     background-color: rgb(11, 7, 34);
     color: azure;
-    font-family: monospace;
     font-size: 1.5rem;
+}
+
+h1, h2 {
+    font-family: "Orbitron", 'Courier New';
+}
+
+p, li, a {
+    font-family: monospace;
 }
 
 .object-container {
