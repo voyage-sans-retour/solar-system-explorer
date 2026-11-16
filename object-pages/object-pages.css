@@ -76,11 +76,16 @@ footer a {
     color: gray;
 }
 
-#mercury-header, #venus-header, #mars-header, #earth-header, #jupiter-header {
+#mercury-header, #venus-header, #mars-header, #earth-header, #jupiter-header, #saturn-header, #uranus-header {
     width: 300px;
 }
 
 #sun-header, #mercury-orbit {
     width: 400px;
+    height: 300px;
+}
+
+#saturns-rings {
+    width: 200px;
     height: 300px;
 }
