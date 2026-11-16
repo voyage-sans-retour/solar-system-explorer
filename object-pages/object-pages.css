@@ -47,6 +47,10 @@ em, .fun-fact {
     color: rgb(170, 156, 247);
 }
 
+.fun-fact, p:not(#footer-text) {
+    margin-bottom: 40px;
+}
+
 ul {
     width: 600px;
     margin: auto;
