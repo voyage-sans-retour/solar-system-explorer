@@ -80,7 +80,7 @@ footer a {
     color: gray;
 }
 
-#mercury-header, #venus-header, #mars-header, #earth-header, #jupiter-header, #saturn-header, #uranus-header, #neptune-header {
+#mercury-header, #venus-header, #mars-header, #earth-header, #jupiter-header, #saturn-header, #uranus-header, #neptune-header, #pluto-header {
     width: 300px;
 }
 
@@ -93,3 +93,8 @@ footer a {
     width: 200px;
     height: 300px;
 }
+
+ #pluto-size {
+    width: 250px;
+    height: 200px;
+ }
