@@ -12,3 +12,5 @@ Various sources were used in this project, including:
 - The offical [NASA website](https://www.nasa.gov/)
 - *Human Universe* by Brian Cox
 - *The Cosmic Perspective: Stars, Galaxies, and Cosmology* by Jeffery Bennett, Megan Donahue, Nicholas Shneider, and Mark Voit
+
+stay tuned for some possible future updates, like new objects and dwarf planets!!
